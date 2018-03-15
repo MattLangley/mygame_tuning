@@ -1,0 +1,6 @@
+{
+    "info":     "info.json",
+    "pg_bank":  "pg_bank.json",
+    "player":   "player.json",
+    "sample":   "sample.csv"
+}
